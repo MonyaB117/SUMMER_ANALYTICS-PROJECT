@@ -171,6 +171,6 @@ Deployable as a Flask/Tornado app.
 
 =============================================================
 
-#LINK OF THE CODE FILE:
+#LINK OF THE CODE FILE: https://github.com/MonyaB117/SUMMER_ANALYTICS-PROJECT/blob/bfd92dd13f85cec56b65bdc194208e3b046ff4c1/CAPSTONE_PROJECT.ipynb
 
 #LINK OF OUTPUT GRAPH:
